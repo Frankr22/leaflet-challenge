@@ -23,3 +23,4 @@ To run the project locally, you will need to have a web server installed on your
 
 ## Built With
 - Leaflet.js (https://leafletjs.com/) - an open-source JavaScript library for creating maps
+- D3.js (https://d3js.org/) - a JavaScript library for manipulating documents based on data
